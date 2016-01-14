@@ -1,4 +1,4 @@
-# spark-riak-example
+# Spark with Riak example using the spark-riak-connector
 Spark and Riak connector examples
 
 This project is a small subset of features that the [spark-riak-connector](https://github.com/basho/spark-riak-connector) allows.
